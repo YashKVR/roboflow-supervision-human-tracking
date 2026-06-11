@@ -1,0 +1,10 @@
+[project]
+name = "roboflow-pose-tracking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "supervision>=0.28.0",
+    "ultralytics>=8.4.64",
+]
