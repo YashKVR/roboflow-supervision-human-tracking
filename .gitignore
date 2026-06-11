@@ -10,3 +10,6 @@ wheels/
 .venv
 
 *.pt
+
+# MediaPipe model assets
+*.task
